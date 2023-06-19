@@ -1,5 +1,3 @@
-Check this deployed at : https://1cryptoworld1.netlify.app/
-
 # Check this deployed at 
 
 This project is deployed with https://1cryptoworld1.netlify.app/
